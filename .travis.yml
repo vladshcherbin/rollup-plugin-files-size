@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - 14
+  - 12
+env:
+  global:
+    NODE_OPTIONS: --experimental-vm-modules
+script:
+  - jest --ci --coverage && codecov
