@@ -1,0 +1,8 @@
+{
+  "name": "rollup-plugin-files-size",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT"
+}
