@@ -20,7 +20,7 @@ npm install rollup-plugin-files-size -D
 ## Usage
 
 ```js
-// rollup.config.js
+// rollup.config.mjs
 import filesSize from 'rollup-plugin-files-size'
 
 export default {
